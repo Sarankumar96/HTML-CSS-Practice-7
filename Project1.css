@@ -1,0 +1,17 @@
+
+.abc{
+	position:relative;
+	width:100%;
+	
+}
+.def img{
+	position:relative;
+	width:50%;
+	
+}
+.ghi{
+	position:absolute;
+	
+	top:0;
+	left:0;
+}
